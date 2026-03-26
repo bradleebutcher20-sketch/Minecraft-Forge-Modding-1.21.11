@@ -1,0 +1,50 @@
+This file will hold all items inside your main assets mod, use them and name them accordingly
+example: item_name.json
+
+blueberry_food.json
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "customitemsmod:item/blueberry_food"
+  }
+}
+
+lapis_pickaxe.json
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "customitemsmod:item/lapis_pickaxe"
+  }
+}
+
+lapis_sword.json
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "customitemsmod:item/lapis_sword"
+  }
+}
+
+limestone.json
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "customitemsmod:item/limestone"
+  }
+}
+
+limestone_block.json
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "customitemsmod:block/limestone_block"
+  }
+}
+
+limestone_ore.json
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "customitemsmod:block/limestone_ore"
+  }
+}
