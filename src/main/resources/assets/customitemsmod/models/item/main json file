@@ -1,0 +1,44 @@
+This file will hold everything for the item model
+example: item_food or item_pickaxe (there are many)
+
+blueberry_food.json
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "customitemsmod:item/blueberry_food"
+  }
+}
+
+lapis_pickaxe.json
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "customitemsmod:item/lapis_pickaxe"
+  }
+}
+
+lapis_sword.json
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "customitemsmod:item/lapis_sword"
+  }
+}
+
+limestone.json
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "customitemsmod:item/limestone"
+  }
+}
+
+limestone_block.json
+{
+  "parent": "customitemsmod:block/limestone_block"
+}
+
+limestone_ore.json
+{
+  "parent": "customitemsmod:block/limestone_ore"
+}
