@@ -3,7 +3,7 @@
 # References: https://github.com/MinecraftForge/MDKExamples
 
 modLoader="javafml"
-loaderVersion="[61,)"
+loaderVersion="[62,)"
 license="MIT"
 #issueTrackerURL="https://github.com/MyOrganization/MyMod/" #optional
 #clientSideOnly=true #optional, default=false
@@ -11,7 +11,7 @@ license="MIT"
 [[mods]]
 modId="customitemsmod"
 version="0.0.1"
-displayName="Custom Items Mod"
+displayName="Tiny Takeover"
 #updateJSONURL="https://example.com/updates.json" #optional
 #displayURL="https://example.com/" #optional
 #logoFile="examplemod.png" #optional
@@ -19,18 +19,18 @@ displayName="Custom Items Mod"
 authors="IAMJEFF55" #optional
 #displayTest="MATCH_VERSION" #optional, default=MATCH_VERSION when not clientSideOnly, else IGNORE_ALL_VERSION
 
-description='''Adds cool things to the game.'''
+description='''A mod that adds cool things'''
 
 [[dependencies.examplemod]] #recommended
     modId="forge"
     mandatory=true
-    versionRange="[61,)"
+    versionRange="[62,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.examplemod]] #recommended
     modId="minecraft"
     mandatory=true
-    versionRange="[1.21.11,1.22,)"
+    versionRange="[26.1,26.2,)"
     ordering="NONE"
     side="BOTH"
