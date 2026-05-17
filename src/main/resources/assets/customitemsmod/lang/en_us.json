@@ -1,8 +1,22 @@
 {
   "item.customitemsmod.limestone_block": "Limestone Block",
-  "item.customitemsmod.blueberry_food": "Blueberry",
+  "item.customitemsmod.blueberry": "Blueberry",
   "item.customitemsmod.lapis_sword": "Lapis Sword",
   "item.customitemsmod.limestone": "Limestone",
   "item.customitemsmod.lapis_pickaxe": "Lapis Pickaxe",
-  "item.customitemsmod.limestone_ore": "Limestone Ore"
+  "item.customitemsmod.limestone_ore": "Limestone Ore",
+  "item.customitemsmod.chisel": "Chisel",
+  "item.customitemsmod.magic_block": "Magic Block",
+  "item.customitemsmod.bark": "Bark",
+  "item.customitemsmod.hammer": "Hammer Of Destruction",
+  "item.customitemsmod.lapis_helmet": "Lapis Helmet",
+  "item.customitemsmod.lapis_chestplate": "Lapis Chestplate",
+  "item.customitemsmod.lapis_leggings": "Lapis Leggings",
+  "item.customitemsmod.lapis_boots": "Lapis Boots",
+  "item.customitemsmod.lapis_horse_armor": "Lapis Horse Armor",
+  "effect.customitemsmod.fall_immunity": "Falling Immortality",
+  "tooltip.customitemsmod.chisel.description": "Will turn anything into its chiseled form",
+  "tooltip.customitemsmod.magic_block.title": "§b§l✨ Magic Transmutation Block ✨",
+  "tooltip.customitemsmod.magic_block.deepslate": "§7- Deepslate transforms to Normal Ore",
+  "message.customitemsmod.magic_block.active": "§e✨ Magic Block activated! Drop ores on top. ✨"
 }
