@@ -1,15 +1,11 @@
 {
-  "parent": "customitemsmod:customitems/root",
+  "parent": "customitemsmod:customitems/limestone_block",
   "display": {
     "icon": {
-      "id": "customitemsmod:limestone_block"
+      "id": "customitemsmod:lapis_pickaxe"
     },
-    "title": {
-      "text": "Limestone Specialist"
-    },
-    "description": {
-      "text": "Craft a solid block of limestone."
-    },
+    "title": "Lapis? When did these exist?",
+    "description": "Unlock lapis Items",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
@@ -20,7 +16,7 @@
       "conditions": {
         "items": [
           {
-            "items": "customitemsmod:limestone"
+            "items": ["customitemsmod:limestone_block"]
           }
         ]
       }
@@ -28,7 +24,8 @@
   },
   "rewards": {
     "recipes": [
-      "customitemsmod:limestone_block"
+      "customitemsmod:lapis_sword_middle",
+      "customitemsmod:lapis_pickaxe"
     ]
   }
 }

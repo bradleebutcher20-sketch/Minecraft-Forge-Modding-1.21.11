@@ -1,14 +1,14 @@
 {
-  "parent": "customitemsmod:customitems/root",
+  "parent": "customitemsmod:customitems/limestone_block",
   "display": {
     "icon": {
-      "id": "customitemsmod:limestone_block"
+      "id": "customitemsmod:magic_block"
     },
     "title": {
-      "text": "Limestone Specialist"
+      "text": "Something Magical"
     },
     "description": {
-      "text": "Craft a solid block of limestone."
+      "text": "Learn a block that may do some magic"
     },
     "show_toast": true,
     "announce_to_chat": true,
@@ -20,7 +20,7 @@
       "conditions": {
         "items": [
           {
-            "items": "customitemsmod:limestone"
+            "items": "customitemsmod:limestone_block"
           }
         ]
       }
@@ -28,7 +28,7 @@
   },
   "rewards": {
     "recipes": [
-      "customitemsmod:limestone_block"
+      "customitemsmod:magic_block"
     ]
   }
 }
